@@ -1,0 +1,11 @@
+{
+  "name": "dadosdosistema",
+  "version": "1.0.0",
+  "description": "retorna dados do so",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "danilo",
+  "license": "ISC"
+}
